@@ -1,1 +1,1 @@
-# Data-Analytics
+This project involves web scraping Airbnb listings using Python and the ButterflySoup library to collect and analyze rental data. It showcases skills in data extraction, cleaning, and exploratory analysis with visual insights on pricing, availability, and trends.
